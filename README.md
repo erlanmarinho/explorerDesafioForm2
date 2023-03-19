@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Criamos uma página web com um formulario de avaliação do mentor, com data dia e hora da proxima mentoria.
 
-- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerFormulario/)
+- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerDesafioForm2/)
 
 
 
